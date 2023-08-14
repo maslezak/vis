@@ -1,0 +1,10 @@
+stacked graphs - interactive search and filterinig
+stem-and-leaf plot
+to bin numbers acording to the first significant digit
+to stack the values within each bin by the second significant digit
+statistical model with three components
+reordering dimensions
+interactive querying to filter one or more dimensions
+rapid multiscale inferences
+pairwise forces
+adjacency matrix
